@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aditya Shinde</h1>
-<h2 align="center">Power BI Developer | Business Analyst | PL-300 Certified</h2>
+<h2 align="center">Power BI Developer | Business Analyst</h2>
 
 ---
 
 ## 👨‍💼 About Me
 
-Fresh graduate with **Microsoft Power BI (PL-300) certification**, passionate about transforming raw data into actionable business insights. Experienced in building interactive dashboards and reports that drive data-driven decision-making. Currently building my portfolio with real-world analytics projects.
+Fresh graduate passionate about transforming raw data into actionable business insights. Skilled in building interactive dashboards and reports that drive data-driven decision-making. Actively seeking opportunities to contribute to impactful business intelligence projects.
 
-- 🎓 **Recent Graduate** actively seeking Power BI Developer/Business Analyst roles
-- 📊 **Portfolio**: 3 Power BI Projects + 2 Machine Learning Projects (Team Collaboration)
-- 🏆 **Certified**: Microsoft Power BI Data Analyst (PL-300)
+- 🎓 **Recent Graduate** seeking Power BI Developer/Business Analyst roles
+- 📊 **Focus Areas**: Business Intelligence, Data Visualization, Analytics
 - 💼 **Open to**: Entry-level positions in Business Intelligence and Data Analytics
 - 📧 **Contact**: adishinde4157@gmail.com
 
@@ -17,7 +16,7 @@ Fresh graduate with **Microsoft Power BI (PL-300) certification**, passionate ab
 
 ## 🎯 Career Objective
 
-*"PL-300 certified Power BI Developer seeking to leverage data visualization and analytical expertise to deliver impactful business intelligence solutions. Eager to contribute to organizations that value data-driven insights and continuous learning."*
+*"Aspiring Power BI Developer and Business Analyst seeking to leverage data visualization and analytical expertise to deliver impactful business intelligence solutions. Eager to contribute to organizations that value data-driven insights and continuous learning."*
 
 ---
 
@@ -47,16 +46,6 @@ Fresh graduate with **Microsoft Power BI (PL-300) certification**, passionate ab
 ### **Project Management Tools**
 - Jira (Familiar)
 - Git & Version Control
-
----
-
-## 📂 Featured Projects
-
-### **Power BI Projects** (3)
-*Coming Soon - Interactive dashboards showcasing business intelligence and data visualization capabilities*
-
-### **Machine Learning Projects** (2)
-*Team-based projects demonstrating collaborative problem-solving and analytical thinking*
 
 ---
 
